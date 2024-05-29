@@ -18,6 +18,7 @@ public class Bucles {
         int sumaEdades = 0;
         double promedio = 0;
         System.out.println("Cantidad de edades a promediar:");
+        System.out.println("Cantidad de edades a promediar:");
         cantEdades = leer.nextInt();
         //2. Con while
        /* while(i < cantEdades){
